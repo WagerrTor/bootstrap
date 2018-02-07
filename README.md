@@ -1,4 +1,4 @@
-# SOMECOIN bootstrap file
+# bootstrap file (blockchain)
 
 ### How to install
 
