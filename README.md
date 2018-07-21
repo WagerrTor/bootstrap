@@ -96,9 +96,11 @@ This batch script can make your life easier on windows, you need to run it from 
 Bootstrap file (_bootstrap.dat_)
  - Block height: `220979`
  - Block hash: `05546d5502001e00ba5845cd6794a66f0150114585a38b7831b2acae86cae218`
- - Tx: `2191554`
+ - Tx: `463974`
  - Date: `2018-07-21 15:18:24`
  - Date (epoch): `1532179104`
+ - Progress: `1.000001`
+ - Cache: `4722`
 
 ### Block 220979
 ```
